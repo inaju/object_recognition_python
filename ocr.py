@@ -6,9 +6,9 @@ import os
 
 
 """  This is how you run this ocr file:  
-py ocr.py --image "image.png" 
-with options like py ocr.py --image "image.png" --preprocess blur
-py ocr.py --image "image.png" --preprocess thre
+py ocr.py --image "image/image.png" 
+with options like py ocr.py --image "image/image.png" --preprocess blur
+py ocr.py --image "image/image.png" --preprocess thre
 sh
 
 """
